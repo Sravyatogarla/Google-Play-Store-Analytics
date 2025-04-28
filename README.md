@@ -96,6 +96,7 @@ GitHub: [https://github.com/Sravyatogarla/Google-Play-Store-Analytics]
 ---
 
 > Project Conclusion:
+ 
 Through the analysis of Google play store data, we gained valuable insights into preferences, app performance, and market trends. It was observed that the majority of apps are free, with a higher concentration in categories like Family and Games.
 
 User Sentiment analysis revealed that most feedback is positive, but apps, although they are fewer in number. Overall, this project highlights the importance of regular updates, user engagement, and strategic app pricing to succeed in the competitive play store environment
