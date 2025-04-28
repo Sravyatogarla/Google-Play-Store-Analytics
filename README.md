@@ -28,7 +28,8 @@ This project was developed as part of the *NullClass* Data Science training prog
 
 | File Name | Description |
 | :-------- | :---------- |
-| Play Store Data.csv | User Reviews.csv |
+| Play Store Data.csv | 
+| User Reviews.csv |
 | Installs Graph.html | Visualization of app installs vs other features |
 | Rating Graph.html | Ratings distribution |
 | Revenue Graph.html | Revenue trends in free vs paid apps |
