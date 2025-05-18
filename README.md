@@ -33,27 +33,27 @@ This project was developed as part of the *NullClass* Data Science training prog
 
 The repository is organized as follows:
 
-Dataset/
+- **Dataset/**
 
 Play Store Data.csv
 
 Reviews.csv
 
-html/
+-**html/**
 
 Contains all 10 interactive HTML visualizations
 
 Examples: revenue_vs_installs.html, grouped_bar_chart.html, bubble_chart.html, etc.
 
-Internship/
+-**Internship/**
 
 Sub-directory containing all internship-related tasks
 
-Dataset/
+**Dataset/**
 
 A copy of Play Store Data.csv used for task execution
 
-Task 1: Revenue vs Installs Scatter Plot
+**Task 1: Revenue vs Installs Scatter Plot8**
 
 Task1_Revenue_vs_Installs.ipynb
 
@@ -63,7 +63,7 @@ images/ — related visual images
 
 README.md — description and analysis for Task 1
 
-Task 2: Grouped Bar Chart by Content Rating
+**Task 2: Grouped Bar Chart by Content Rating**
 
 task2_grouped_bar_chart.ipynb
 
@@ -73,7 +73,7 @@ images/
 
 README.md — description and analysis for Task 2
 
-Task 3: Bubble Chart
+**Task 3: Bubble Chart**
 
 bubblechart.ipynb
 
