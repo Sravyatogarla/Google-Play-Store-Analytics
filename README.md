@@ -1,8 +1,11 @@
 
 # Google Play Store Analytics
 
-This project is a deep-dive analysis of Google Play Store apps. Using data wrangling, cleaning, and visualization, we explore app popularity, category distribution, ratings, installs, update patterns, sentiment trends, and revenue opportunities.  
+This repository contains a comprehensive analysis of apps on the Google Play Store using Python and interactive visualizations.This project is a deep-dive analysis of Google Play Store apps. Using data wrangling, cleaning, and visualization, we explore app popularity, category distribution, ratings, installs, update patterns, sentiment trends, and revenue opportunities.  
 This project was developed as part of the *NullClass* Data Science training program.
+
+- This project also includes an **Internship Task Module** with individual assignments broken down into dedicated folders for structured execution and submission.
+
 
 ---
 
@@ -26,29 +29,76 @@ This project was developed as part of the *NullClass* Data Science training prog
 
 ## Files:
 
-| File Name | Description |
-| :-------- | :---------- |
-| Play Store Data.csv | 
-| User Reviews.csv |
-| Installs Graph.html | Visualization of app installs vs other features |
-| Rating Graph.html | Ratings distribution |
-| Revenue Graph.html | Revenue trends in free vs paid apps |
-| Sentiment Graph.html | Sentiment analysis based on user reviews |
-| Update Graph.html | Update frequency and its effect |
-| Type Graph.html | Free vs Paid app analysis |
-| interactive_plot.html | Interactive visualization combining multiple factors |
+Google-Play-Store-Data-Analysis/
+│
+├── Dataset/
+│   ├── Play Store Data.csv
+│   └── Reviews.csv
+│
+├── Internship/
+│   ├── Dataset/
+│   ├── Task 1/ → Revenue vs Installs (Scatter Plot)
+│   ├── Task 2/ → App Category vs Type (Grouped Bar Chart)
+│   ├── Task 3/ → Category-wise Bubble Chart
+│   └── README.md → Overview of all Internship Tasks
+│
+├── html/
+│   ├── [10 interactive HTML visualizations]
+│
+├── Play Store Data Analysis.ipynb → Complete analysis notebook
+├── README.md → You are here!
 
 ---
 
 ## Technologies Used:
 
-- *Python 3*
-- *Pandas*
-- *Matplotlib / Plotly*
-- *Jupyter Notebook*
-- *HTML (for visualizations)*
+- Python 🐍
 
+Pandas – Data manipulation
+
+NumPy – Numerical operations
+
+Matplotlib – Static visualizations
+
+Seaborn – Statistical visualizations
+
+Plotly – Interactive HTML visualizations
+
+Jupyter Notebook – IDE for code and analysis
 ---
+
+Internship Task Summaries
+
+| Task       | Visualization        | Description                                                     |
+| ---------- | -------------------- | --------------------------------------------------------------- |
+| **Task 1** | 📉 Scatter Plot      | Relationship between **revenue** and **installs** for paid apps |
+| **Task 2** | 📊 Grouped Bar Chart | Distribution of **app categories** by **Free vs Paid** types    |
+| **Task 3** | 🫧 Bubble Chart      | Size of bubbles represents **total installs** per **category**  |
+
+Each task folder includes:
+
+.ipynb notebook
+
+.html interactive visualization
+
+images/ for screenshots
+
+README.md describing the task
+
+📈 Main Analysis Summary
+The main analysis notebook (Play Store Data Analysis.ipynb) explores:
+
+Top categories by number of apps
+
+Category-wise installs and reviews
+
+Rating trends
+
+Revenue potential by app type
+
+Comparison of free vs paid apps
+
+Popular app genres
 
 ## Key Insights:
 
@@ -85,15 +135,25 @@ This project was developed as part of the *NullClass* Data Science training prog
 
 Author:
 
-Name: Sravya Togarla
+**Sravya Togarla**
+Aspiring Data Analyst | Lifelong Learner | Python & Data Enthusiast
 
 Training Program: NullClass - Data Science Project Series
-
+Linkedin:[   ]
 GitHub: [https://github.com/Sravyatogarla/Google-Play-Store-Analytics]
 
 
 
 ---
+📌 How to Use
+1.Clone this repo:
+
+git clone https://github.com/Sravyatogarla/Google-Play-Store-Data-Analysis.git
+
+2.Open Jupyter Notebook or VS Code to run .ipynb files.
+
+3.Explore the interactive charts in the html/ folder by opening them in any browser.
+
 
 > Project Conclusion:
  
