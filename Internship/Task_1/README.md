@@ -2,6 +2,12 @@
 
 ## 📝 Objective
 Analyze the relationship between **Revenue** and **Number of Installs** for **Paid Apps** using a scatter plot.
+---
+Description
+
+- Data filtered to include only paid apps with non-zero revenue and install values.
+
+- A scatter plot was created to observe correlation patterns.
 
 ---
 
@@ -29,3 +35,22 @@ Analyze the relationship between **Revenue** and **Number of Installs** for **Pa
 - Calculated Revenue = Price × Installs  
 - Created Plotly scatter plot
 
+## Insights
+
+- A strong positive correlation is visible between installs and revenue.
+
+- Apps with higher installs tend to generate higher revenue.
+
+## Tools Used
+
+- Pandas
+
+- Plotly
+
+🔸 Conclusion
+
+Paid apps with greater user installs are more likely to yield higher revenue, suggesting the importance of app visibility and quality.
+
+ *Author*
+
+**Sravya Togarla**
