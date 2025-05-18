@@ -29,26 +29,64 @@ This project was developed as part of the *NullClass* Data Science training prog
 
 ## Files:
 
-Google-Play-Store-Data-Analysis/
-│
-├── Dataset/
-│   ├── Play Store Data.csv
-│   └── Reviews.csv
-│
-├── Internship/
-│   ├── Dataset/
-│   ├── Task 1/ → Revenue vs Installs (Scatter Plot)
-│   ├── Task 2/ → App Category vs Type (Grouped Bar Chart)
-│   ├── Task 3/ → Category-wise Bubble Chart
-│   └── README.md → Overview of all Internship Tasks
-│
-├── html/
-│   ├── [10 interactive HTML visualizations]
-│
-├── Play Store Data Analysis.ipynb → Complete analysis notebook
-├── README.md → You are here!
+📁 Project Structure
+The repository is organized as follows:
 
----
+Dataset/
+
+Play Store Data.csv
+
+Reviews.csv
+
+html/
+
+Contains all 10 interactive HTML visualizations
+
+Examples: revenue_vs_installs.html, grouped_bar_chart.html, bubble_chart.html, etc.
+
+Internship/
+
+Sub-directory containing all internship-related tasks
+
+Dataset/
+
+A copy of Play Store Data.csv used for task execution
+
+Task 1: Revenue vs Installs Scatter Plot
+
+Task1_Revenue_vs_Installs.ipynb
+
+Task1_Revenue_vs_Installs_ScatterPlot.html
+
+images/ — related visual images
+
+README.md — description and analysis for Task 1
+
+Task 2: Grouped Bar Chart by Content Rating
+
+task2_grouped_bar_chart.ipynb
+
+Task2_Grouped_Bar_chart.html
+
+images/
+
+README.md — description and analysis for Task 2
+
+Task 3: Bubble Chart
+
+bubblechart.ipynb
+
+bubble_chart.html
+
+images/
+
+README.md — description and analysis for Task 3
+
+README.md — overview of all internship tasks
+
+Play Store Data Analysis.ipynb — Main analysis notebook
+
+README.md — Main project overview (this file)
 
 ## Technologies Used:
 
