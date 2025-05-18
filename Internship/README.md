@@ -40,3 +40,14 @@ Internship/
 
 - Each visualization is interactive and stored as an HTML file.
 - All tasks are structured for easy understanding with step-by-step explanations.
+
+---
+
+🔸 Outcome
+
+Clear visualizations for analyzing the trends and behavior of apps in different monetization models and content ratings.
+
+---
+**Project Duration**
+
+12 May 2025 - 12 June 2025
