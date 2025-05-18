@@ -30,6 +30,7 @@ This project was developed as part of the *NullClass* Data Science training prog
 ## Files:
 
 📁 Project Structure
+
 The repository is organized as follows:
 
 Dataset/
