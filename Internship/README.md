@@ -17,11 +17,17 @@ Each task contains a Jupyter Notebook, an interactive HTML chart, and a dedicate
 ## 📁 Repository Structure
 
 Internship/
+
 ├── Dataset/
+
 │ └── Play Store Data.csv
+
 ├── Task 1/
+
 ├── Task 2/
+
 ├── Task 3/
+
 └── README.md
 
 
