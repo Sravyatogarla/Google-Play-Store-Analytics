@@ -28,7 +28,7 @@ Internship/
 
 ├── Task 3/
 
-├── Final.py/ 
+├── Final.ipynb/(containing all tasks code) 
 
 └── README.md
 
