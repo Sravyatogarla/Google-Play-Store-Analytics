@@ -81,6 +81,10 @@ bubble_chart.html
 
 images/
 
+**Final.ipynb**
+
+**dashboard.html**
+
 README.md — description and analysis for Task 3
 
 README.md — overview of all internship tasks
@@ -88,6 +92,8 @@ README.md — overview of all internship tasks
 Play Store Data Analysis.ipynb — Main analysis notebook
 
 README.md — Main project overview (this file)
+
+---
 
 ## Technologies Used:
 
@@ -123,6 +129,10 @@ Each task folder includes:
 images/ for screenshots
 
 README.md describing the task
+
+Final.ipynb includes all the 3 tasks code combined
+
+Dashboard.html - Web dashboard
 
 📈 Main Analysis Summary
 The main analysis notebook (Play Store Data Analysis.ipynb) explores:
