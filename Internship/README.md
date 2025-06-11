@@ -28,7 +28,11 @@ Internship/
 
 ├── Task 3/
 
-├── Final.ipynb/(containing all tasks code) 
+├── Final.ipynb/(containing all tasks code)
+
+├──dashboard.html
+
+├── Task1_ScatterPlot.html
 
 └── README.md
 
