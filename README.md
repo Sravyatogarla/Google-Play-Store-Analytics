@@ -64,7 +64,7 @@ Sub-directory containing all internship-related tasks
 
 A copy of Play Store Data.csv used for task execution
 
-**Task 1: Revenue vs Installs Scatter Plot8**
+**Task 1**
 
 Task1_Revenue_vs_Installs.ipynb
 
@@ -74,7 +74,7 @@ images/ — related visual images
 
 README.md — description and analysis for Task 1
 
-**Task 2: Grouped Bar Chart by Content Rating**
+**Task 2**
 
 task2_grouped_bar_chart.ipynb
 
@@ -84,24 +84,33 @@ images/
 
 README.md — description and analysis for Task 2
 
-**Task 3: Bubble Chart**
+**Task 3**
 
-bubblechart.ipynb
+Bubblechart.ipynb
 
-bubble_chart.html
+Bubble_chart.html
 
 images/
+
 README.md — description and analysis for Task 3
 
 
 **Final.ipynb**
+
 **Task1_ScatterPlot.html**
+
 **Task1_ScatterPlot.png**
+
 **Task2_Grouped_Bar_chart.html**
+
 **Task2_Grouped Bar chart.png**
+
 **Task3_Bubble_Chart.html**
+
 **Task3_Bubble Chart.png**
+
 **dashboard.html**
+
 **dashboard.png**
 
 
