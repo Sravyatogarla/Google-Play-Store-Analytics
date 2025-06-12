@@ -32,7 +32,19 @@ Internship/
 
 ├──dashboard.html
 
+├── Dashboard.pngl
+
 ├── Task1_ScatterPlot.html
+
+├── Task1_ScatterPlot.png
+
+├── Task2_Grouped_Bar_Chart.html
+
+├── Task2_Grouped Bar Chart.png
+
+├── Task3_Bubble_Chart.html
+
+├── Task3_Bubble Chart.png
 
 └── README.md
 
