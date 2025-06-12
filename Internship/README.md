@@ -72,6 +72,6 @@ Internship/
 Clear visualizations for analyzing the trends and behavior of apps in different monetization models and content ratings.
 
 ---
-**Project Duration**
+**Internship Duration**
 
 12 May 2025 - 12 June 2025
