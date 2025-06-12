@@ -19,7 +19,18 @@ This project was developed as part of the *NullClass* Data Science training prog
 - Derive insights into app size, pricing, and content rating trends.
 
 ---
+## Internshio Task Objectives:
 
+
+1. Create a scatter plot to visualize the relationship between revenue and the number of installs for paid apps only. Add a trendline to show the correlation and color-code the points based on app categories.
+
+2. Use a grouped bar chart to compare the average rating and total review count for the top 10 app categories by number of installs. Filter out any categories where the average rating is below 4.0 and size below 10 M and last update should be Jan month . this graph should work only between 3PM IST to 5 PM IST apart from that time we should not show this graph in dashboard itself.
+
+3. Plot a bubble chart to analyze the relationship between app size (in MB) and average rating, with the bubble size representing the number of installs. Include a filter to show only apps with a rating higher than 3.5 and that belong to the Game, Beauty ,business , commics , commication , Dating , Entertainment , social and event categories. Reviews should be greater than 500 and the app name should not contain letter "S" and sentiment subjectivity should be more than 0.5 and highlight the Game Category chart in Pink color. We have to translate the Beauty category in Hindi and Business category in Tamil and Dating category in German while showing it on Graphs. Installs should be more than 50k as well as this graph should work only between 5 PM IST to 7 PM IST apart from that time we should not show this graph in dashboard itself
+
+
+
+---
 ## Dataset:
 
 - *Play Store Data.csv*:  
@@ -80,12 +91,19 @@ bubblechart.ipynb
 bubble_chart.html
 
 images/
+README.md — description and analysis for Task 3
+
 
 **Final.ipynb**
-
+**Task1_ScatterPlot.html**
+**Task1_ScatterPlot.png**
+**Task2_Grouped_Bar_chart.html**
+**Task2_Grouped Bar chart.png**
+**Task3_Bubble_Chart.html**
+**Task3_Bubble Chart.png**
 **dashboard.html**
+**dashboard.png**
 
-README.md — description and analysis for Task 3
 
 README.md — overview of all internship tasks
 
@@ -186,12 +204,11 @@ Author:
 
 **Sravya Togarla**
 Aspiring Data Analyst | Lifelong Learner | Python & Data Enthusiast
-
+- Passionate about transforming raw data into actionable insights  
+- Continuously learning and building hands-on projects  
 Training Program: NullClass - Data Science Project Series
-Linkedin:[   ]
+Linkedin:[https://www.linkedin.com/in/sravya-togarla   ]
 GitHub: [https://github.com/Sravyatogarla/Google-Play-Store-Analytics]
-
-
 
 ---
 📌 How to Use
