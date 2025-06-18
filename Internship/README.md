@@ -40,9 +40,9 @@ Internship/
 
 ├── Final.ipynb/(containing all tasks code)
 
-├──dashboard.html
+├──Dashboard.html
 
-├── Dashboard.pngl
+├── Dashboard.png
 
 ├── Task1_ScatterPlot.html
 
@@ -54,7 +54,7 @@ Internship/
 
 ├── Task3_Bubble_Chart.html
 
-├── Task3_Bubble Chart.png
+├── Task3_BubbleChart.png
 
 └── README.md
 
