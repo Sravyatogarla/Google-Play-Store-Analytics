@@ -3,7 +3,7 @@
 Welcome to the internship project on **Google Play Store Data Analytics**. This repository contains three detailed data visualization tasks performed on real Google Play Store data using Python and Plotly.
 
 ---
-**Inte4rnship Tasks Include**
+**Internship Tasks Include**
 
 1. Create a scatter plot to visualize the relationship between revenue and the number of installs for paid apps only. Add a trendline to show the correlation and color-code the points based on app categories.
 
